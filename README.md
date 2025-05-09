@@ -4,6 +4,8 @@ An advanced backtesting tool for **Personal Traders**, combining manual bar repl
 - 🧰 Built with Electron + Node.js + Supabase + TradingView
 
 ![Backtest Tool UI](app-screen-shot-1.png)
+![Backtest Tool UI](app-screen-shot-2.png)
+
 ---
 
 ## ✨ Features
