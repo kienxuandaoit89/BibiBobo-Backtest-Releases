@@ -12,13 +12,13 @@ An advanced backtesting tool for **Personal Traders**, combining manual bar repl
 
 ## ✨ Features
 
-###Current:
+### Current:
 
 - 🔄 **MT5 Sync** — Communicate with MetaTrader 5 to pull historical data and interact with testing session
 - 🗂️ Local-based OHLC data
 - 📈 **Manual Bar Replay** — Simulate the market like real trading
 
-###Next:
+### Next:
 
 - 🧠 **AI-Assisted Decisions** — Ask AI about patterns or entry logic
 - 🧪 **Strategy Testing Mode** — Auto-execute and measure rules
