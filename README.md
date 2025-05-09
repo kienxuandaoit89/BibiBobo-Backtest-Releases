@@ -40,3 +40,7 @@ Personal use only. TradingView charting library is **not redistributable**. Plea
 
 - Telegram: https://t.me/kktradingtool
 - or DM: https://t.me/kienxuandaoit
+
+## 📊 Topics
+
+backtesting, trading, tradingview, forex, crypto, supabase, electron, ai, rag
