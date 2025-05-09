@@ -3,6 +3,8 @@
 An advanced backtesting tool for **Personal Traders**, combining manual bar replay, strategy testing, and **AI-assisted trade decisions** — all rendered beautifully using **TradingView charts**.
 - 🧰 Built with Electron + Node.js + Supabase + TradingView
 
+[![Watch the demo](https://img.youtube.com/vi/Kj79TNJllHw/hqdefault.jpg)](https://youtu.be/Kj79TNJllHw)
+
 ![Backtest Tool UI](app-screen-shot-1.png)
 ![Backtest Tool UI](app-screen-shot-2.png)
 
